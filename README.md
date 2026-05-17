@@ -9,11 +9,7 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
 </h1>
 
-<div align="center">
-  <a href="https://u8views.com/github/zaakiabdirahman-ops">
-    <img src="https://u8views.com/api/v1/github/profiles/117586613/views/day-week-month-total-count.svg" alt="Profile Views">
-  </a>
-</div>
+
 
 ### 🤖 AI & Machine Learning Engineer | Deep Learning | Computer Vision
 
