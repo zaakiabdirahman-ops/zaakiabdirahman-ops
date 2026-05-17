@@ -13,13 +13,13 @@
 
 ### 🤖 AI & Machine Learning Engineer | Deep Learning | Computer Vision
 
-I build intelligent AI systems and robust machine learning models that solve complex, real-world problems. Based in **Hargeisa**, I focus on bridging the gap between theoretical models and practical execution through deep learning, computer vision, and scalable ML architectures.
+I build intelligent AI systems and robust machine learning models that solve complex, real-world problems. Based in **Nairobi**, I focus on bridging the gap between theoretical models and practical execution through deep learning, computer vision, and scalable ML architectures.
 
 * **Deep Learning & Neural Networks:** I design and train advanced neural networks for predictive modeling, complex pattern recognition, and semantic understanding. My focus includes architecting custom layers and tuning deep frameworks to handle specialized datasets.
 * **Computer Vision:** I specialize in extracting actionable insights from visual data. My experience covers image classification, object detection, segmentation, and real-time visual analysis using state-of-the-art CNNs and vision transformers.
 * **MLOps & Reliability:** I care about making AI systems highly usable and reliable in production. That includes structured deployment, model evaluation, continuous iteration, and the engineering practices needed to keep ML applications performant at scale.
 
-**⚡ Fun Fact:** I come from a culture where a single well-placed word can change history. I bring that same precision into data architecture, model optimization, and system design.
+**⚡ Fun Fact:** My entry point into machine learning started because I wanted to know if a machine could appreciate visual patterns the same way humans do. That curiosity quickly turned into an obsession with deep learning architectures
 
 ---
 
@@ -70,7 +70,7 @@ I help organizations transition to intelligent, data-driven operations using spe
 
 ### 🎓 Education
 
-**B.S. in Computer Science | ISBAT University**
+**B.S. in Artifical Intellingence &  Machine-Learning | ISBAT University**
 * **Honors:** First Class Honors 
 * **Core Specialization:** 
     * **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
