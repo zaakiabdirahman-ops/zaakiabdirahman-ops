@@ -9,8 +9,6 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
 </h1>
 
-
-
 ### 🤖 AI & Machine Learning Engineer | Deep Learning | Computer Vision
 
 I build intelligent AI systems and robust machine learning models that solve complex, real-world problems. Based in **Nairobi**, I focus on bridging the gap between theoretical models and practical execution through deep learning, computer vision, and scalable ML architectures.
@@ -19,7 +17,7 @@ I build intelligent AI systems and robust machine learning models that solve com
 * **Computer Vision:** I specialize in extracting actionable insights from visual data. My experience covers image classification, object detection, segmentation, and real-time visual analysis using state-of-the-art CNNs and vision transformers.
 * **MLOps & Reliability:** I care about making AI systems highly usable and reliable in production. That includes structured deployment, model evaluation, continuous iteration, and the engineering practices needed to keep ML applications performant at scale.
 
-**⚡ Fun Fact:** My entry point into machine learning started because I wanted to know if a machine could appreciate visual patterns the same way humans do. That curiosity quickly turned into an obsession with deep learning architectures
+**⚡ Fun Fact:** My entry point into machine learning started because I wanted to know if a machine could appreciate visual patterns the same way humans do. That curiosity quickly turned into an obsession with deep learning architectures.
 
 ---
 
@@ -43,6 +41,22 @@ I help organizations transition to intelligent, data-driven operations using spe
 * **Deep Learning Architectures:** Engineering custom neural networks tailored to specific industry datasets and complex pattern recognition tasks.
 * **Intelligent Data Pipelines:** Developing systems that clean, process, and extract deep insights from large-scale structured and unstructured data.
 * **Model Optimization & Deployment:** Compiling and quantizing models for edge devices and high-throughput production environments.
+
+---
+
+### 🚀 Featured Projects
+
+* **[Human Activity Recognition (HAR) Deployment](https://github.com/zaakiabdirahman-ops/HAR-Deployment)** 🏃‍♂️
+    * **The Business Solution:** An end-to-end MLOps pipeline designed to classify human activities from complex sequential sensor data. This project emphasizes production-grade model deployment, scalability, and seamless backend orchestration.
+    * **The Tech Stack:** `Python` • `Deep Learning Frameworks` • `API Orchestration`
+
+* **[Diabetes Prediction Web Application](https://github.com/zaakiabdirahman-ops/Diabetes-Prediction-App)** 🩺
+    * **The Business Solution:** A predictive healthcare application built to evaluate clinical risk factors and deliver real-time diagnostic indicators. Focuses on high-accuracy tabular data classification, feature engineering, and robust backend validation.
+    * **The Tech Stack:** `Machine Learning` • `Scikit-Learn` • `Python` • `Web Frameworks`
+
+* **[Personal Professional Portfolio](https://github.com/zaakiabdirahman-ops/my-portfolio)** 💼
+    * **The Business Solution:** A clean, optimized digital engineering storefront showcasing technical capabilities, project deep-dives, and production architecture examples for prospective clients and engineering teams.
+    * **The Tech Stack:** `Frontend Architecture` • `Responsive Design` • `Performance Optimization`
 
 ---
 
@@ -70,7 +84,7 @@ I help organizations transition to intelligent, data-driven operations using spe
 
 ### 🎓 Education
 
-**B.S. in Artifical Intellingence &  Machine-Learning | ISBAT University**
+**B.S. in Artificial Intelligence & Machine Learning | ISBAT University**
 * **Honors:** First Class Honors 
 * **Core Specialization:** 
     * **Artificial Intelligence:** Advanced Neural Networks & Computer Vision.
